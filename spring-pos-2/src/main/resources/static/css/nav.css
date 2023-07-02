@@ -1,0 +1,23 @@
+.navbar-light {
+    background-color: #fff !important;
+}
+.navbar {
+     box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.16); 
+}
+
+
+.navbar-expand-lg {
+   flex-wrap: nowrap;
+    justify-content: flex-start; 
+}
+.navbar {
+    position: relative; 
+    display: flex; 
+    flex-wrap: wrap; 
+    align-items: center; 
+    justify-content: space-between; 
+    padding-top: 0.5rem; 
+    padding-right: 1rem; 
+    padding-bottom: 0.5rem; 
+    padding-left: 1rem; 
+}
